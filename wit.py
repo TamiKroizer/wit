@@ -68,6 +68,7 @@ class WitInterface:
     @staticmethod
     def handle_commands(command, args):
         pass
+    print("yyyy")
 
     def func_to_merge(self):
         print("hello!!!")
