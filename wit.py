@@ -68,6 +68,7 @@ class WitInterface:
     @staticmethod
     def handle_commands(command, args):
         pass
+    print("yyyy")
 
 
 if __name__ == "__main__":
