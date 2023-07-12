@@ -69,6 +69,8 @@ class WitInterface:
     def handle_commands(command, args):
         pass
 
+    def func_to_merge(self):
+        print("hello!!!")
 
 if __name__ == "__main__":
     # TODO: handle edge cases
