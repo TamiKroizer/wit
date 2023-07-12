@@ -3,6 +3,7 @@ import os
 
 
 class FileHandler:
+    marge = 7
     base_path = None
     working_directory = None
 
@@ -73,7 +74,7 @@ class WitInterface:
         print('merge!!!')
 
     def func_to_merge(self):
-        print("hello!!!")
+        print('hello!!!')
 
 if __name__ == "__main__":
     # TODO: handle edge cases
