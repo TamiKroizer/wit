@@ -3,6 +3,7 @@ import os
 
 
 class FileHandler:
+    marge = 5
     base_path = None
     working_directory = None
 
